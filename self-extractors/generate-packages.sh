@@ -48,8 +48,8 @@ then
   ZIP=occam-ota-937116
   BUILD=kot49h
 fi # klp-dev
-ROOTDEVICE=mako
-DEVICE=mako
+ROOTDEVICE=geehrc
+DEVICE=geehrc
 MANUFACTURER=lge
 
 for COMPANY in broadcom lge qcom

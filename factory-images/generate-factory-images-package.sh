@@ -36,10 +36,10 @@
 
 source ../../../common/clear-factory-images-variables.sh
 BUILD=937116
-DEVICE=mako
+DEVICE=geehrc
 PRODUCT=occam
 VERSION=kot49h
 SRCPREFIX=signed-
-BOOTLOADER=makoz30d
+BOOTLOADER=geehrcz30d
 RADIO=m9615a-cefwmazm-2.0.1700.98
 source ../../../common/generate-factory-images-common.sh
